@@ -99,3 +99,15 @@ submission['Cancer'] = final_pred
 
 # 결과 저장
 submission.to_csv('/content/drive/MyDrive/baseline_submit1.csv', index=False)
+
+
+
+
+
+![20250602_181724](https://github.com/user-attachments/assets/08ad1845-729a-477a-9203-02f3bf243614)
+![20250602_181701](https://github.com/user-attachments/assets/8cae0583-8038-4bbb-880d-86e70a77ce2d)
+
+
+
+
+
